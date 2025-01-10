@@ -1,0 +1,7 @@
+.idea
+app
+.env
+/coverage
+/.vscode
+/*.env.json
+build/
